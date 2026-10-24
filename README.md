@@ -115,3 +115,19 @@ Here are some ideas to get you started:
 <p align="center">
   <b>20+ Years of Engineering Excellence</b>
 </p>
+<div align="center">
+
+<table style="width:100%; border:none;">
+  <tr>
+    <td align="center" style="border:none;">
+      <h1>M. Arslan</h1>
+      <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_East_Turkestan.gif" width="280" alt="East Turkestan Flag" style="max-width: 100%; height: auto;" />
+      </p>
+      <h3>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h3>
+      <strong>20+ Years of Engineering Excellence</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
