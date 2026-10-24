@@ -1,10 +1,11 @@
 <div align="center">
 
-  <!-- 🌊 1. سۇنىڭ ھەرىكەتلىنىپ (دولقۇنلاپ) تۇرىدىغان 3D ئالاھىدە ئۈنۈمى -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021027,50:0f2b48,100:00a8e8&height=220&section=header&text=M.%20Arslan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-
-   <img src="https://raw.githubusercontent.com/arslan200361-cell/arslan200361-cell/main/flag.svg" width="320" alt="East Turkestan Flag" />
+  <!-- 🇹🇷 1. ئىسىمنىڭ ئۈستىدىكى لەپىلدەپ تۇرىدىغان بايراق -->
+  <img src="https://raw.githubusercontent.com/arslan200361-cell/arslan200361-cell/main/flag.svg?v=2" width="320" alt="East Turkestan Flag" />
   <br/>
+
+  <!-- 🌊 2. سۇنىڭ ھەرىكەتلىنىپ (دولقۇنلاپ) تۇرىدىغان 3D ئالاھىدە ئۈنۈمى -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021027,50:0f2b48,100:00a8e8&height=220&section=header&text=M.%20Arslan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
   <h2>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h2>
 
@@ -72,21 +73,5 @@
 ### 🌌 Deep Ocean Metrics (ئىستاتىستىكا كارتىسى)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arslan200361-cell&theme=darkhub&column=6&margin-w=15" />
-</div>
-
----
-
-### 📬 Connect With Me (ئالاقە)
-
-<div align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
+  <img
+  
