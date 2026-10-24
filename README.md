@@ -1,12 +1,7 @@
 <div align="center">
 
-  <!-- 🌊 1. سۇنىڭ ھەرىكەتلىنىپ (دولقۇنلاپ) تۇرىدىغان 3D ئالاھىدە ئۈنۈمى (ئىسىم) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021027,50:0f2b48,100:00a8e8&height=220&section=header&text=M.%20Arslan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-
-  <!-- 🇹🇷 2. ئىسىمنىڭ ئاستىدىكى لەپىلدەپ تۇرىدىغان بايراق -->
-  <br/>
-  <img src="https://raw.githubusercontent.com/arslan200361-cell/arslan200361-cell/main/flag.svg?v=3" width="420" alt="East Turkestan Flag" />
-  <br/>
+  <!-- 🌊🇹🇷 ئىسىم + لەپىلدەيدىغان بايراق (بىر پۈتۈن بانېر) -->
+  <img src="https://raw.githubusercontent.com/arslan200361-cell/arslan200361-cell/main/banner.svg?v=1" width="100%" alt="M. Arslan" />
 
   <h2>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h2>
 
