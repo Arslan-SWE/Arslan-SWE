@@ -1,11 +1,12 @@
 <div align="center">
 
-  <!-- 🌊 3D Water & Wave Banner (M. Arslan) -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021027,50:0f2b48,100:00a8e8&height=220&section=header&text=M.%20Arslan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <!-- 🌊 1. سۇنىڭ ھەرىكەتلىنىپ (دولقۇنلاپ) تۇرىدىغان 3D ئالاھىدە ئۈنۈمى -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021027,50:0f2b48,100:00a8e8&height=220&section=header&text=M.%20Arslan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-  <!-- 🇹🇷 لەپىلدەپ تۇرىدىغان شەرقىي تۈركىستان بايرىقى -->
-  <p style="margin-top: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_East_Turkestan.gif" width="220" alt="East Turkestan Flag" />
+  <!-- 🇹🇷 2. لەپىلدەپ تۇرىدىغان بايراق (مۇقىم GIF زەنجىرى) -->
+  <br/>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUxb2YyNXAxeDkxaHdvYmxicnRhOHdtMnZicXV5dmphNjlyeDVseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a3U4P02K5qDqM/giphy.gif" width="220" alt="East Turkestan Flag" />
   </p>
 
   <h2>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h2>
