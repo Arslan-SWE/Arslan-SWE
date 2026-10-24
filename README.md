@@ -103,28 +103,15 @@ Here are some ideas to get you started:
   <a href="https://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+# <p align="center">M. Arslan</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_East_Turkestan.gif" width="160" alt="East Turkestan Flag" />
+</p>
 
-</div>
+<p align="center">
+  <b>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</b>
+</p>
 
-<br>
-
-<!-- Footer Wave GIF -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a8e8,100:003459&height=120&section=footer" width="100%" />
-</div>
-<div align="center">
-
-<table style="width:100%; border:none;">
-  <tr>
-    <td align="center" style="border:none;">
-      <h1>M. Arslan</h1>
-      <p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_East_Turkestan.gif" width="280" alt="East Turkestan Flag" style="max-width: 100%; height: auto;" />
-      </p>
-      <h3>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h3>
-      <strong>20+ Years of Engineering Excellence</strong>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <b>20+ Years of Engineering Excellence</b>
+</p>
