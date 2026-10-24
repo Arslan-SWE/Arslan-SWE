@@ -1,23 +1,13 @@
-## Hi there 👋
-
-<!--
-**arslan200361-cell/arslan200361-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 🌊 Header Banner: دېڭىز تېمىسىدىكى ھەرىكەتلىك باش بەلگە -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077be,100:00a8e8&height=220&section=header&text=M.%20Arslan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
-  
+
+  <!-- 🌊 3D Water & Wave Banner (M. Arslan) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:021027,50:0f2b48,100:00a8e8&height=220&section=header&text=M.%20Arslan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+
+  <!-- 🇹🇷 لەپىلدەپ تۇرىدىغان شەرقىي تۈركىستان بايرىقى -->
+  <p style="margin-top: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_East_Turkestan.gif" width="220" alt="East Turkestan Flag" />
+  </p>
+
   <h2>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h2>
 
   <p>
@@ -69,15 +59,14 @@ Here are some ideas to get you started:
 ### 📈 GitHub Analytics & Activity (ئىستاتىستىكا)
 
 <div align="center">
-  <!-- USERNAME دېگەن ئورۇنغا ئۆزىڭىزنىڭ GitHub ID سىنى يېزىڭ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=M-arslan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-arslan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arslan200361-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan200361-cell&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-arslan&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan200361-cell&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 ---
@@ -85,7 +74,7 @@ Here are some ideas to get you started:
 ### 🌌 Deep Ocean Metrics (ئىستاتىستىكا كارتىسى)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-arslan&theme=darkhub&column=6&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arslan200361-cell&theme=darkhub&column=6&margin-w=15" />
 </div>
 
 ---
@@ -93,7 +82,6 @@ Here are some ideas to get you started:
 ### 📬 Connect With Me (ئالاقە)
 
 <div align="center">
-
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -103,31 +91,4 @@ Here are some ideas to get you started:
   <a href="https://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-# <p align="center">M. Arslan</p>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_East_Turkestan.gif" width="160" alt="East Turkestan Flag" />
-</p>
-
-<p align="center">
-  <b>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</b>
-</p>
-
-<p align="center">
-  <b>20+ Years of Engineering Excellence</b>
-</p>
-<div align="center">
-
-<table style="width:100%; border:none;">
-  <tr>
-    <td align="center" style="border:none;">
-      <h1>M. Arslan</h1>
-      <p>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_East_Turkestan.gif" width="280" alt="East Turkestan Flag" style="max-width: 100%; height: auto;" />
-      </p>
-      <h3>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h3>
-      <strong>20+ Years of Engineering Excellence</strong>
-    </td>
-  </tr>
-</table>
-
 </div>
