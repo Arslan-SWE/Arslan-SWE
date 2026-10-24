@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" width="360" height="240">
+  <defs>
+    <filter id="wave" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="turbulence" baseFrequency="0.008 0.03" numOctaves="1" seed="3" result="noise">
+        <animate attributeName="baseFrequency"
+                 values="0.008 0.03; 0.012 0.045; 0.008 0.03"
+                 dur="4s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="14"
+                         xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.18"/>
+    </linearGradient>
+    <mask id="crescent">
+      <rect width="360" height="240" fill="#fff"/>
+      <circle cx="188" cy="120" r="48" fill="#000"/>
+    </mask>
+  </defs>
+
+  <g filter="url(#wave)">
+    <!-- كۆك مەيدان -->
+    <rect x="20" y="20" width="320" height="200" fill="#1E9BDC"/>
+    <!-- ئاق ئاي -->
+    <circle cx="168" cy="120" r="52" fill="#fff" mask="url(#crescent)"/>
+    <!-- ئاق يۇلتۇز -->
+    <polygon fill="#fff"
+      points="236,98 241.9,111.2 256.3,112.7 245.6,122.4 248.6,136.5 236,129.3 223.4,136.5 226.4,122.4 215.7,112.7 230.1,111.2"/>
+    <!-- سايە ئۈنۈمى -->
+    <rect x="20" y="20" width="320" height="200" fill="url(#shade)"/>
+  </g>
+</svg>
