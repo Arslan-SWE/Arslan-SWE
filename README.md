@@ -3,11 +3,8 @@
   <!-- 🌊 1. سۇنىڭ ھەرىكەتلىنىپ (دولقۇنلاپ) تۇرىدىغان 3D ئالاھىدە ئۈنۈمى -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021027,50:0f2b48,100:00a8e8&height=220&section=header&text=M.%20Arslan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-  <!-- 🇹🇷 2. لەپىلدەپ تۇرىدىغان بايراق (مۇقىم GIF زەنجىرى) -->
+   <img src="https://raw.githubusercontent.com/arslan200361-cell/arslan200361-cell/main/flag.svg" width="320" alt="East Turkestan Flag" />
   <br/>
-  <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazUxb2YyNXAxeDkxaHdvYmxicnRhOHdtMnZicXV5dmphNjlyeDVseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a3U4P02K5qDqM/giphy.gif" width="220" alt="East Turkestan Flag" />
-  </p>
 
   <h2>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h2>
 
