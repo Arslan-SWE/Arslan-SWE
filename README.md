@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🌊🇹🇷 Name + waving flag (single banner) -->
-  <img src="https://raw.githubusercontent.com/arslan200361-cell/arslan200361-cell/main/ocean-banner.svg" width="100%" alt="M. Arslan" />
+  <img src="https://raw.githubusercontent.com/Arslan-SWE/Arslan-SWE/main/ocean-banner.svg" width="100%" alt="M. Arslan" />
 
   <h2>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h2>
 
@@ -54,14 +54,14 @@
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslan200361-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan200361-cell&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arslan-SWE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan-SWE&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan200361-cell&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslan-SWE&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 ---
@@ -69,7 +69,7 @@
 ### 🌌 Deep Ocean Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arslan200361-cell&theme=darkhub&column=6&margin-w=15" />
+  <img src="https://ghchart.rshah.org/00a8e8/Arslan-SWE" alt="Contribution chart" width="97%" />
 </div>
 
 ---
@@ -87,4 +87,3 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
-
