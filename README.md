@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 🌊🇹🇷 ئىسىم + لەپىلدەيدىغان بايراق (بىر پۈتۈن بانېر) -->
+  <!-- 🌊🇹🇷 Name + waving flag (single banner) -->
   <img src="https://raw.githubusercontent.com/arslan200361-cell/arslan200361-cell/main/ocean-banner.svg" width="100%" alt="M. Arslan" />
 
   <h2>🌊 Ocean of Code | Senior Software Architect & Tech Lead 💻</h2>
@@ -25,18 +25,18 @@
 
 ---
 
-### 🔱 About Me (مەن ھەققىدە)
+### 🔱 About Me
 
 > *"Like the ocean, code is deep, dynamic, and ever-changing. Master the waves, or be swallowed by them."*
 
-- 🌊 **تەجرىبە:** 20 يىلدىن ئارتۇق تەجرىبىگە ئىگە **Software Architect**, يۇقىرى يۈكلۈك (High-load) ۋە سىستېما ئارخىتېكتۇرىسى مۇتەخەسسىسى.
-- ⚓ **نۆۋەتتىكى خىزمەت:** Distributed Systems, Cloud Architecture (AWS/GCP), ۋە AI / High-Performance Computing.
-- 🚀 **ئالاھىدىلىكىم:** ئەڭ مۇرەككەپ كود ۋە سىستېمىلارنى ئاددىي، مۇقىم ۋە ئۈنۈملۈك قىلىپ قۇرۇپ چىقىش.
-- 💬 **مەسلىھەت:** كود يېزىشتىن بۇرۇن ئارخىتېكتۇرىنى مۇكەممەل تۈزۈش.
+- 🌊 **Experience:** **Software Architect** with more than 20 years of experience, specializing in high-load systems and system architecture.
+- ⚓ **Current work:** Distributed Systems, Cloud Architecture (AWS/GCP), and AI / High-Performance Computing.
+- 🚀 **Specialty:** Building the most complex code and systems to be simple, stable, and efficient.
+- 💬 **Advice:** Design the architecture thoroughly before writing any code.
 
 ---
 
-### 🌊 Ocean Stack & Ecosystem (تېخنىكا دۇنياسى)
+### 🌊 Ocean Stack & Ecosystem
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-### 📈 GitHub Analytics & Activity (ئىستاتىستىكا)
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arslan200361-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 🌌 Deep Ocean Metrics (ئىستاتىستىكا كارتىسى)
+### 🌌 Deep Ocean Metrics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arslan200361-cell&theme=darkhub&column=6&margin-w=15" />
@@ -74,7 +74,7 @@
 
 ---
 
-### 📬 Connect With Me (ئالاقە)
+### 📬 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com">
@@ -87,12 +87,4 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
   
