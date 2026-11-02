@@ -7,7 +7,7 @@
 
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Passionate+Lifelong+Learner;Diving+Deep+Into+Machine+Learning;Building+The+Future+Step+By+Step" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Passionate+Lifelong+Learner;Diving+Deep+Into+LLMs+%26+RAG;Building+The+Future+Step+By+Step" alt="Typing SVG" />
     </a>
   </p>
 
@@ -33,9 +33,9 @@ Hello and welcome to my profile! I am **ARSLAN**.
 
 Although I am at the beginning of my programming journey and don't have extensive experience yet, I am a highly motivated, optimistic learner who works persistently every single day. My ultimate goal is to become a skilled and professional **AI Engineer**. Keep an eye on my journey—great things are coming!
 
-- 🎯 **Target:** Aspiring AI Engineer dedicated to mastering Generative AI and Deep Learning architectures.
-- ⚓ **Current Focus:** Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), Neural Networks, and modern development environments using VS Code.
-- 🛠️ **Hands-on Stack:** PyTorch, Hugging Face ecosystem, Prompt Engineering, Vector Databases, and Python.
+- 🎯 **Target:** Aspiring AI Engineer dedicated to mastering Generative AI, LLMs, and Deep Learning architectures.
+- ⚓ **Current Focus:** Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), Neural Networks, and modern workflows in VS Code.
+- 🛠️ **Hands-on Stack:** PyTorch, Hugging Face, LangChain, Vector Databases, and Python.
 - 🚀 **Philosophy:** Relentless daily consistency, curiosity-driven research, and turning theory into production code.
 - 💬 **Motto:** Stay persistent, write clean code, and let the models speak for themselves.
 
@@ -47,10 +47,11 @@ Although I am at the beginning of my programming journey and don't have extensiv
 
 | Section | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **AI & Data** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Cloud & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| **AI & Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Data & Scientific** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **Dev Environment & Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Databases & Vector Stores** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![ChromaDB](https://img.shields.io/badge/Chroma_Vector_DB-FF6F61?style=flat-square&logo=databricks&logoColor=white) |
 
 </div>
 
@@ -59,14 +60,14 @@ Although I am at the beginning of my programming journey and don't have extensiv
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arslan-SWE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan-SWE&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arslan-SWE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arslan-SWE&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arslan-SWE&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=Arslan-SWE&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
 </div>
 
 ---
@@ -74,7 +75,7 @@ Although I am at the beginning of my programming journey and don't have extensiv
 ### 🌌 Deep Ocean Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arslan-SWE&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="97%" />
+  <img src="https://ghchart.rshah.org/00a8e8/Arslan-SWE" width="97%" alt="Contribution Graph" />
 </div>
 
 ---
